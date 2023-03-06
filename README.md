@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am John Jefferies, a young software engineer trying to make my way into the industry.
+
+I graduated from Virginia Tech with my Bachelors in Computer Science.
+
+I am currently employed as a Senior Associate Engineer at Infosys where I am working on multiple projects as a Quality Assurance Software Tester.
+
+I am trying to break into a new role as a developer, but still trying to figure out which space is right for me.
+
+I am currently learning JavaScript to go along with web development.
+
 <!--
 **jdjefferies3/jdjefferies3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
